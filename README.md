@@ -1,1 +1,10 @@
-# huffman_compression
+# Huffman Code Compression
+#
+
+#
+
+#
+
+#
+
+#
